@@ -1,5 +1,7 @@
 # README
 
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/OpenOS-Project-OSP/README) [![KDE Eco](https://img.shields.io/badge/KDE%20Eco-certified-brightgreen?logo=kde&logoColor=white&style=flat-square)](https://eco.kde.org/) [![Blue Angel](https://img.shields.io/badge/Blue%20Angel-DE--UZ%20215-0055a4?style=flat-square)](https://www.blauer-engel.de/en/certification/criteria)
+
 README (for Readme's an Extremely Accessible Documentation MakEr) is a very
 simple HTML documentation generator whose goal is to be as pain-free as possible
 to put in place, maintain and navigate.
